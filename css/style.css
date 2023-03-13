@@ -48,8 +48,11 @@ a:hover {
 }
 
 .author, time {
-    margin-bottom: 0;
+    font-size:.85rem;
 }
+
+.author {
+    margin-bottom: 0;
 
 figure {
     margin: 1.25em 0;
